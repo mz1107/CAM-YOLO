@@ -9,8 +9,7 @@ Please check out 'CAM+YOLOv3.ipynb' notebook for implementation and more visuali
 ![Example1](example1.png)
 
 ## Other Notebooks
-
-_ **'YOLOv3.ipynb'**: SVHN dataset pre-processing and pre-trained YOLOv3 fine-tunining. Weights from here (**'best-2.pt'**)is then used in CAM+YOLOv3 model.
+- **'YOLOv3.ipynb'**: SVHN dataset pre-processing and pre-trained YOLOv3 fine-tunining. Weights from [here](https://drive.google.com/file/d/1R-aK-kihhBc-XKTBxSBgNJPHmVmV9p_j/view?usp=sharing) (**'best-2.pt'**) is then used in CAM+YOLOv3 notebook.
 
 - **'FasterRCNN.ipynb'**: Faster R-CNN is also used for number detections with SVHN dataset. Training time is long and the model is not yet well-trained.
 
